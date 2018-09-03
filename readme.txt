@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Edit on DEV branch (new).
 Test for dev merge.
 Fix bug 101.
+bla..bla..bla..
